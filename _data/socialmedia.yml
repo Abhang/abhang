@@ -1,22 +1,22 @@
 - name: GitHub
-  url: http://github.com/phlow
+  url: http://github.com/abhang
   class: icon-github
-  title: Code und mehr...
+  title: "Leaning new things.."
 
 - name: YouTube
-  url: http://www.youtube.com/PhlowMedia
+  url: http://www.youtube.com/@abhangmehendale8723
   class: icon-youtube
-  title: "Videos, Video-Anleitungen und Filme von Phlow auf YouTube"
+  title: "Random hobby videos on YouTube"
 
 - name: Twitter
-  url: http://twitter.com/phlow
+  url: http://twitter.com/abhangmehendale
   class: icon-twitter
-  title: "Immer das Neuste von Phlow gibt es auf Twitter"
+  title: "I don't tweet, I just have an account!"
 
-- name: Mixcloud
-  url: http://www.mixcloud.com/phlow/
+- name: LinkedIn
+  url: https://in.linkedin.com/in/abhangm
   class: icon-cloud
-  title: "Mixe, was sonst?"
+  title: "LinkedIn, Let's Connect?"
 
 # - name: Facebook
 #   url: http://www.facebook.com/
