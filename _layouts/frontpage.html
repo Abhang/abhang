@@ -9,14 +9,14 @@ format: frontpage
     </div><!-- /.row -->
 </div><!-- /#header-home -->
 
-
+page.widget1.title = "Hello, this is Abhang"
 {% comment %}
 *
 * First check, if widget is empty or not by checking if there is a title
 *
 {% endcomment %}
 <div class="row t60">
-	page.widget1.title = "Hello, this is Abhang"
+	
 	{% if page.widget1.image or page.widget1.video or page.widget1.title %}
 		{% include _frontpage-widget.html widget=page.widget1 %}
 	{% endif %}
